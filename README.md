@@ -16,4 +16,5 @@
 * npm install --save-dev webpack-dev-server
 * npm install --save-dev mini-css-extract-plugin css-loader node-sass sass-loader
 * npm install --save-dev eslint babel-eslint eslint-config-airbnb eslint-plugin-import eslint-plugin-react eslint-plugin-jsx-a11y
-    
+* npm install --save-dev file-loader
+* sudo npm install json-server -g
